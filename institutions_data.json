@@ -1,0 +1,97 @@
+{
+    "meta": {
+        "total": 510,
+        "parameters": {
+            "filters": "STNAME: \"Massachusetts\"",
+            "fields": "NAME,ASSET",
+            "limit": "10"
+        },
+        "index": {
+            "name": "institutions_20241025090007",
+            "createTimestamp": "2024-10-25T11:19:10Z"
+        }
+    },
+    "data": [
+        {
+            "data": {
+                "ASSET": 6755390,
+                "NAME": "Fleet Bank, National Association",
+                "ID": "10424"
+            },
+            "score": 0
+        },
+        {
+            "data": {
+                "ASSET": 1282972,
+                "NAME": "Cape Cod Bank and Trust, National Association",
+                "ID": "10538"
+            },
+            "score": 0
+        },
+        {
+            "data": {
+                "ASSET": 528150,
+                "NAME": "Shawmut First Bank and Trust Company",
+                "ID": "10540"
+            },
+            "score": 0
+        },
+        {
+            "data": {
+                "ASSET": 908812,
+                "NAME": "BayBank Valley Trust Company",
+                "ID": "10541"
+            },
+            "score": 0
+        },
+        {
+            "data": {
+                "NAME": "Bristol County Trust Company",
+                "ID": "10543"
+            },
+            "score": 0
+        },
+        {
+            "data": {
+                "ASSET": 318836,
+                "NAME": "University Bank, National Association",
+                "ID": "10544"
+            },
+            "score": 0
+        },
+        {
+            "data": {
+                "ASSET": 1400742,
+                "NAME": "Shawmut Arlington Trust Company",
+                "ID": "11800"
+            },
+            "score": 0
+        },
+        {
+            "data": {
+                "ASSET": 223519,
+                "NAME": "Berkshire Bank & Trust Company",
+                "ID": "11801"
+            },
+            "score": 0
+        },
+        {
+            "data": {
+                "ASSET": 398423,
+                "NAME": "Framingham Trust Company",
+                "ID": "11803"
+            },
+            "score": 0
+        },
+        {
+            "data": {
+                "NAME": "Shawmut Melrose-Wakefield Bank and Trust Company",
+                "ID": "12435"
+            },
+            "score": 0
+        }
+    ],
+    "totals": {
+        "count": 510
+    }
+}
